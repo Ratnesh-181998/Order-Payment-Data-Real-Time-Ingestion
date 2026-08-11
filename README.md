@@ -1,4 +1,4 @@
-# 🚀 Sales Order & Payment Data — Real-Time Ingestion
+# Sales Order & Payment Data — Real-Time Ingestion
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Project 5 — Real-Time Sales Order & Payment Data Ingestion Pipeline</b>
+  <b> Real-Time Sales Order & Payment Data Ingestion Pipeline</b>
 </p>
 
 <p align="center">
